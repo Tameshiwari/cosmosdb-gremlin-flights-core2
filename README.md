@@ -1,0 +1,2 @@
+# cosmosdb-gremlin-flights-core2
+This is a dotnet CLI Asp.Net Core 2.0 ported version of Anthony Chu's original cosmos-gremlin-flights demo version. see  https://github.com/anthonychu/cosmosdb-gremlin-flights. Some bugs were reported with Microsoft.Azure.Graph 0.3.1 -preview library, [notably negative minus hyphen lost in streamed conversion] so Console Application was completely rebuilt using mainly Gremlin.Net approach.
