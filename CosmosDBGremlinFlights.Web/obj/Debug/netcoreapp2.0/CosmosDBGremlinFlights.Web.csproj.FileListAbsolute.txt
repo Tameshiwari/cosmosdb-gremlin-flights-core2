@@ -1,0 +1,11 @@
+C:\Azure_Developer_Immersion_Labs\cosmosdb-gremlin-flights-core2\CosmosDBGremlinFlights.Web\bin\Debug\netcoreapp2.0\CosmosDBGremlinFlights.Web.deps.json
+C:\Azure_Developer_Immersion_Labs\cosmosdb-gremlin-flights-core2\CosmosDBGremlinFlights.Web\bin\Debug\netcoreapp2.0\CosmosDBGremlinFlights.Web.runtimeconfig.json
+C:\Azure_Developer_Immersion_Labs\cosmosdb-gremlin-flights-core2\CosmosDBGremlinFlights.Web\bin\Debug\netcoreapp2.0\CosmosDBGremlinFlights.Web.runtimeconfig.dev.json
+C:\Azure_Developer_Immersion_Labs\cosmosdb-gremlin-flights-core2\CosmosDBGremlinFlights.Web\bin\Debug\netcoreapp2.0\CosmosDBGremlinFlights.Web.dll
+C:\Azure_Developer_Immersion_Labs\cosmosdb-gremlin-flights-core2\CosmosDBGremlinFlights.Web\bin\Debug\netcoreapp2.0\CosmosDBGremlinFlights.Web.pdb
+C:\Azure_Developer_Immersion_Labs\cosmosdb-gremlin-flights-core2\CosmosDBGremlinFlights.Web\obj\Debug\netcoreapp2.0\CosmosDBGremlinFlights.Web.csprojResolveAssemblyReference.cache
+C:\Azure_Developer_Immersion_Labs\cosmosdb-gremlin-flights-core2\CosmosDBGremlinFlights.Web\obj\Debug\netcoreapp2.0\CosmosDBGremlinFlights.Web.csproj.CoreCompileInputs.cache
+C:\Azure_Developer_Immersion_Labs\cosmosdb-gremlin-flights-core2\CosmosDBGremlinFlights.Web\obj\Debug\netcoreapp2.0\CosmosDBGremlinFlights.Web.AssemblyInfoInputs.cache
+C:\Azure_Developer_Immersion_Labs\cosmosdb-gremlin-flights-core2\CosmosDBGremlinFlights.Web\obj\Debug\netcoreapp2.0\CosmosDBGremlinFlights.Web.AssemblyInfo.cs
+C:\Azure_Developer_Immersion_Labs\cosmosdb-gremlin-flights-core2\CosmosDBGremlinFlights.Web\obj\Debug\netcoreapp2.0\CosmosDBGremlinFlights.Web.dll
+C:\Azure_Developer_Immersion_Labs\cosmosdb-gremlin-flights-core2\CosmosDBGremlinFlights.Web\obj\Debug\netcoreapp2.0\CosmosDBGremlinFlights.Web.pdb
